@@ -100,7 +100,7 @@ The metric predicts permutation difficulty and model accuracy without requiring 
 ## Repository Contents
 
 ```
-├── Dan_Fang_Final_Project_Permuted_Puzzle__version_5.pdf   # Full report
+├── Project_version_4_public_.pdf   # Full report
 └── README.md
 ```
 

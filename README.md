@@ -3,7 +3,7 @@
 **Dan Fang** · M.Sc. Machine Learning & Data Science, Reichman University · 2025  
 Mentor: Alon Oring
 
-📄 [Read the Full Report (PDF)](./Dan_Fang_Final_Project_Permuted_Puzzle__version_5.pdf) · 💻 [Colab Notebook](https://colab.research.google.com/drive/15rRizCaTSsFkGv2MNrZrJCAJwJMQME-9)
+📄 [Read the Full Report (PDF)](./Project_version_4_public_.pdf) · 💻 [Colab Notebook](https://colab.research.google.com/drive/15rRizCaTSsFkGv2MNrZrJCAJwJMQME-9)
 
 ---
 
